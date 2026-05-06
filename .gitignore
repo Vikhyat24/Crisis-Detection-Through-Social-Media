@@ -1,0 +1,39 @@
+# Virtual environments
+.venv/
+venv/
+crisis-env/
+py311_env/
+win_env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
+
+# Generated outputs (maps, exports)
+crisis_map.html
+crisis_heatmap.html
+combined_map.html
+statistics_map.html
+tweets_export_*.csv
+crisis_tweets_*.csv
+cleaned_tweets_map.html
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# PyInstaller build artifacts
+dist/
+build/
+*.spec
