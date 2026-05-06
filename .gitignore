@@ -34,6 +34,5 @@ Thumbs.db
 .idea/
 
 # PyInstaller build artifacts
-dist/
 build/
 *.spec
